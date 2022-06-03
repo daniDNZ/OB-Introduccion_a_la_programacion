@@ -3,5 +3,6 @@ public class Main {
         Exercise3.main();
         Exercise4.main();
         Exercise8.main();
+        Exercise9.main();
     }
 }
