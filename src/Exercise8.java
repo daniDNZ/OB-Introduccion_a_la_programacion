@@ -37,7 +37,7 @@ class Person {
     }
 
     public int getAge() {
-        return age;
+        return this.age;
     }
 
     public void setName(String newName) {
@@ -45,7 +45,7 @@ class Person {
     }
 
     public String getName() {
-        return name;
+        return this.name;
     }
 
     public void setPhone(int newPhone) {
@@ -53,6 +53,6 @@ class Person {
     }
 
     public int getPhone() {
-        return phone;
+        return this.phone;
     }
 }
